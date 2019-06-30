@@ -9,8 +9,16 @@ I hope you are all doing well today, my name is Matthew McFall and for my first 
 
 
 References
+
+
 Boeing, G. (Oct 25, 2016) DBSCAN clustering to reduce spatial data set size. Retrieved from https://github.com/gboeing/2014-summer-travels/blob/master/clustering-scikitlearn.ipynb 
+
+
 Mooney, P. (2019, June 29) Denver Crime Data. Retrieved from https://www.kaggle.com/paultimothymooney/denver-crime-data 
+
+
 Python Tutorials (2015) k nearest neighbors. Retrieved from https://pythonspot.com/k-nearest-neighbors/
+
+
 Skalski, P. (2016) K Nearest Neighbor. Retrieved from https://www.kaggle.com/skalskip/iris-data-visualization-and-knn-classification 
 
